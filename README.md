@@ -4,3 +4,4 @@
  - Standard Italian Grapheme-To-Phoneme Trainging Data;
 Scraped off Wikitionary using Wikipron.  
 All characters have been lowercased and stripped of extra markings such as tie bars ("⁀") within affricates.  
+![image](https://github.com/user-attachments/assets/c3e626f1-a46d-4c13-a507-22d8e2ad828e)  
