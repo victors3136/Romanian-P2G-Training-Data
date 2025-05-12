@@ -3,7 +3,7 @@
  - Castillian Spanish Grapheme-To-Phoneme Trainging Data;  
  - Standard Italian Grapheme-To-Phoneme Trainging Data;  
   
-Scraped off Wikitionary using [Wikipron])(https://github.com/CUNY-CL/wikipron).    
+Scraped off Wikitionary using [Wikipron](https://github.com/CUNY-CL/wikipron).    
 All characters have been lowercased and stripped of extra markings such as tie bars ("⁀") within affricates.  
   
     
