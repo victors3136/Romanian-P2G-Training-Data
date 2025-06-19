@@ -1,4 +1,4 @@
-# Data for Trainign G2P and P2G models  
+# Data for Training G2P and P2G models  
  - Romanian Phoneme-To-Grapheme Training Data;  
  - Castillian Spanish Grapheme-To-Phoneme Trainging Data;  
  - Standard Italian Grapheme-To-Phoneme Trainging Data;  
